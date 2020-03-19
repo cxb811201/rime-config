@@ -1,1 +1,6 @@
 .DS_Store
+build/
+installation.yaml
+user.txt
+user.yaml
+wubi86_extended.userdb/
